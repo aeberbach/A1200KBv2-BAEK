@@ -1,0 +1,2 @@
+This folder contains all you need to print to mount and support the keyboard. 
+Everything should be present in either FreeCAD or STEP formats. The reason for this is that everything was made with Autocad Inventor, but I switched to FreeCAD. Where a thing didn't need modifying I did not go through toe process of loading the STEP in FreeCAD and then saving the FreeCAD file, but if you need to do that it is not hard. Both can easily be used to generate STL with FreeCAD.
